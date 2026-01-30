@@ -5,7 +5,7 @@ class Student {
 
     // 0-arg constructor
     Student() {
-        this(20, "Bhoomi", 19);
+        this(20, "Saksham", 19);
         System.out.println("Inside 0-args constructor");
     }
 
